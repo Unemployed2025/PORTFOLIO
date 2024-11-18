@@ -1,3 +1,1 @@
-Here are some of my projects:
-
-- [Project 1](https://github.com/Unemployed2025/YELPCAMP):  YelpCamp
+check readme.md file for project's repo's links
